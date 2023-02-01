@@ -87,7 +87,7 @@ a {
 }
 
 .brand__desc {
-  visibility: hidden;
+  display: none;
   width: 100%;
   height: 95px;
   overflow-y: auto;
