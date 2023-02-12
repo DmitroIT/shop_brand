@@ -78,8 +78,9 @@ a {
 }
 
 .brand__title {
+  font-size: 20px;
   text-align: center;
-  margin: 10px auto;
+  margin: 15px auto;
   display: flex;
   justify-content: center;
   font-weight: 700;
